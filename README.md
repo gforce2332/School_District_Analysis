@@ -2,7 +2,7 @@
 
 ## Project Overview
 Performed an analysis on student funding data and student's standardized test scores to provide insights at the school and district level.
-After discovering ninth grade reading and math scores for Thomas High School (THS) appeared to have been altered, an updated analysis was provided.
+After discovering ninth grade math and reading scores for Thomas High School (THS) appeared to have been altered, an updated analysis was provided.
 
 ## Results
 - District Summary was not affected after replacing math and reading scores with null values for THS while keeping the rest of the data intact.            
