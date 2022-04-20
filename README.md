@@ -1,5 +1,5 @@
 # School District Analysis
-Click here to view the Python file: [School District Analysis](https://github.com/gforce2332/school_district_analysis/blob/main/PyCitySchools_Challenge.py)
+Click here to view the Python file: [School District Analysis](https://github.com/gforce2332/school_district_analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 ## Project Overview
 Performed an analysis on student funding data and student's standardized test scores to provide insights at the school and district level.
