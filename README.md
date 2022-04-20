@@ -18,10 +18,20 @@ After discovering ninth grade reading and math scores for Thomas High School (TH
 ![Bottom_Five_Performing_Schools](https://user-images.githubusercontent.com/98711219/164168030-cccac335-e3ac-4c57-a8f9-e4f516bfc80e.png)
 
 - Replacing ninth-grade scores affect the following:
+
      * Only ninth-grade math and reading scores were affected. All other scores by grade remained unaffected;
+     ![Average_Math_Scores_by_Grade_ _School](https://user-images.githubusercontent.com/98711219/164169206-e2705326-297f-4e0a-8dc7-0f3570882188.png)
+     ![Average_Reading_Scores_by_Grade_ _School](https://user-images.githubusercontent.com/98711219/164169217-203d1bd8-e0b3-4208-b4d7-f9133b64a98f.png)
+
      * Scores by school spending were reduced by less than 1% for THS;
+     ![School_Spending_Summary](https://user-images.githubusercontent.com/98711219/164169320-c09f5716-e6ac-4bf5-9b53-52ef3069f383.png)
+
      * Scores by school size was unaffected; and
+     ![School_Size_Summary](https://user-images.githubusercontent.com/98711219/164169356-e96dc8b8-621a-450c-9ac3-8c6d96d5ced0.png)
+
      * Scores by school type also remained unaffected. 
+     ![School_Type_Summary](https://user-images.githubusercontent.com/98711219/164169382-ee9b7e61-3101-4539-a3d3-2bb46f182b55.png)
+
 
 ## Summary
 - The four major changes that occurred is the number of total students, the number of students counted at THS, the average math and reading scores, and the overall percentages for math and reading at Thomas High School. The removal of data implies a decrease in the count of total students overall, and total students at THS, specifically for this analysis. And since the population amount was decreased, this leads to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, we can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
