@@ -5,9 +5,11 @@ Performed an analysis on student funding data and student's standardized test sc
 After discovering ninth grade reading and math scores for Thomas High School (THS) appear to have been altered, an updated analysis was provided.
 
 ## Results
-- District Summary was not affected after replacing math and reading scores for Thomas High School with null values while keeping the rest of the data intact.[School_District_Summary](https://user-images.githubusercontent.com/98711219/164155066-c5351762-4557-4099-9d02-b939eade4159.png)
+- District Summary was not affected after replacing math and reading scores for Thomas High School with null values while keeping the rest of the data intact.       !     ![School_District_Summary](https://user-images.githubusercontent.com/98711219/164155066-c5351762-4557-4099-9d02-b939eade4159.png)
 - School Summary for THS dropped in the categories of passing math, reading and overall passing percentages between 25-30% after replacing the ninth grade scores. 
-  ![School_Summary](https://user-images.githubusercontent.com/98711219/164157741-6bd76efc-8acb-4e74-aa72-cc318194de95.png)
+ ![School_Summary](https://user-images.githubusercontent.com/98711219/164167033-6579dd58-1516-4f4d-b33e-88931adb436f.png)
+
+  Below shows totals for THS prior to replacing ninth grade scores.
   ![THS_Before_Null_Values_Added](https://user-images.githubusercontent.com/98711219/164157753-e2974bcc-87a8-4019-935b-9d62798799b1.png)
 
 
