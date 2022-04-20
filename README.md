@@ -7,7 +7,7 @@ After discovering ninth grade reading and math scores for Thomas High School (TH
 ## Results
 - District Summary was not affected after replacing math and reading scores with null values for THS while keeping the rest of the data intact.            
 - ![School_District_Summary](https://user-images.githubusercontent.com/98711219/164155066-c5351762-4557-4099-9d02-b939eade4159.png)
-- School Summary for THS dropped in the categories of passing math, reading and overall passing percentages between 25-30% after replacing ninth grade scores. 
+- School Summary for THS dropped in the categories of passing math, passing reading and overall passing percentages between 25-30% after replacing ninth grade scores. 
  ![School_Summary](https://user-images.githubusercontent.com/98711219/164167033-6579dd58-1516-4f4d-b33e-88931adb436f.png)
 
   Below shows totals for THS prior to replacing ninth grade scores.
