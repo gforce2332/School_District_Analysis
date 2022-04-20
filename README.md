@@ -1,5 +1,5 @@
 # School District Analysis
-Click here to view the Python file: [School District Analysis](https://github.com/gforce2332/school_district_analysis/blob/main/PyCitySchools_Challenge.ipynb)
+Click here to view the file: [School District Analysis](https://github.com/gforce2332/school_district_analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 ## Table of Contents
 * [Project Overview](#project_overview)
