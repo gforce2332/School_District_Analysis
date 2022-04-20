@@ -20,7 +20,7 @@ After discovering ninth grade reading and math scores for Thomas High School (TH
 - Replacing ninth-grade scores affect the following:
 
      * Only ninth-grade math and reading scores were affected. All other scores by grade remained unaffected;
-     ![Average_Math_Scores_by_Grade_ _School](https://user-images.githubusercontent.com/98711219/164169206-e2705326-297f-4e0a-8dc7-0f3570882188.png)
+     ![Average_Math_Scores_by_Grade_ _School](https://user-images.githubusercontent.com/98711219/164169918-00273cf8-a528-4b5e-904d-8b40135cba5a.png)
      ![Average_Reading_Scores_by_Grade_ _School](https://user-images.githubusercontent.com/98711219/164169217-203d1bd8-e0b3-4208-b4d7-f9133b64a98f.png)
 
      * Scores by school spending were reduced by less than 1% for THS;
@@ -34,4 +34,4 @@ After discovering ninth grade reading and math scores for Thomas High School (TH
 
 
 ## Summary
-- The four major changes that occurred is the number of total students, the number of students counted at THS, the average math and reading scores, and the overall percentages for math and reading at Thomas High School. The removal of data implies a decrease in the count of total students overall, and total students at THS, specifically for this analysis. And since the population amount was decreased, this leads to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, we can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
+- Four changes occurred in this analysis. The number of total students, the number of students counted at THS, the average math and reading scores, and the overall percentages for math and reading at THS. The removal of data implies a decrease in the count of total students overall and total students at THS. Since the population amount decreased, this lead to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, it can be assumed that the removal of math and reading scores of 9th graders at Thomas High School was not as significant as it might have been perceived.
