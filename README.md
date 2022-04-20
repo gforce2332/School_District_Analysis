@@ -2,7 +2,7 @@
 
 ## Project Overview
 Performed an analysis on student funding data and student's standardized test scores to provide insights at the school and district level.
-After discovering ninth grade reading and math scores for Thomas High School (THS) appear to have been altered, an updated analysis was provided.
+After discovering ninth grade math and reading scores for Thomas High School (THS) appeared to have been altered, an updated analysis was provided.
 
 ## Results
 - District Summary was not affected after replacing math and reading scores with null values for THS while keeping the rest of the data intact.            
@@ -34,4 +34,4 @@ After discovering ninth grade reading and math scores for Thomas High School (TH
 
 
 ## Summary
-- Four changes occurred in this analysis. The number of total students, the number of students counted at THS, the average math and reading scores, and the overall percentages for math and reading at THS. The removal of data implies a decrease in the count of total students overall and total students at THS. Since the population amount decreased, this lead to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, it can be assumed that the removal of math and reading scores of 9th graders at Thomas High School was not as significant as it might have been perceived.
+- Four changes occurred in this analysis. The number of total students, the number of students counted at THS, the average math and reading scores, and the overall percentages for math and reading at THS. The removal of data would suggest a decrease in the overall count of total students as well as the total student count at THS. Since the population amount decreased, this led to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, it can be assumed that the removal of math and reading scores of 9th graders at Thomas High School was not as significant as it might originally have been perceived.
